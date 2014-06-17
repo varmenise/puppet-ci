@@ -1,3 +1,3 @@
 node default {
-	include tomcat7
+    include tomcat7
 }
